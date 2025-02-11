@@ -1,4 +1,4 @@
-// File: C:\Users\AdityaV\OneDrive\Documents\Projects_and_tutorials\AI_Video_Generator\ai-short-video-generator\app\dashboard\page.jsx
+// File: C:\Users\AdityaV\OneDrive\Documents\Projects_and_tutorials\AI_Short_Video\ai-short-video-generator\app\dashboard\page.jsx
 import * as entry from '../../../../app/dashboard/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

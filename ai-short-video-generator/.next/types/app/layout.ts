@@ -1,4 +1,4 @@
-// File: C:\Users\AdityaV\OneDrive\Documents\Projects_and_tutorials\AI_Video_Generator\ai-short-video-generator\app\layout.js
+// File: C:\Users\AdityaV\OneDrive\Documents\Projects_and_tutorials\AI_Short_Video\ai-short-video-generator\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

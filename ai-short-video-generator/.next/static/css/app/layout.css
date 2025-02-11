@@ -627,6 +627,9 @@ video {
 .object-contain {
   object-fit: contain;
 }
+.p-10 {
+  padding: 2.5rem;
+}
 .p-3 {
   padding: 0.75rem;
 }
@@ -652,6 +655,10 @@ video {
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 .text-sm {
   font-size: 0.875rem;

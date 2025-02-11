@@ -1,5 +1,6 @@
 ## Unity ##
-
+*.swc-win32-x64-msvc
+*.next-swc.win32-x64-msvc.node
 *.cs diff=csharp text
 *.cginc text
 *.shader text

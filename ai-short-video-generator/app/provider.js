@@ -4,6 +4,7 @@ import { Users } from '@/configs/schema';
 import { useUser } from '@clerk/nextjs';
 import { eq } from 'drizzle-orm';
 import React, { useEffect } from 'react'
+import PropTypes from 'prop-types';
 
 function Provider({children}) {
 
@@ -32,5 +33,8 @@ function Provider({children}) {
     </div>
   )
 }
+Provider.propTypes = {
+  children: PropTypes.node.isRequired
+};
 
 export default Provider
